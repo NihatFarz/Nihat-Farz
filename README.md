@@ -1,3 +1,9 @@
+<a href="https://telegram.me/itz_Sadew" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="nihatfarz" height="30" width="30" /></a>
+<a href="https://instagram.com/Sadew_Jayasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nihatfarz" height="30" width="40" /></a>
+
+
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
