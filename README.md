@@ -32,4 +32,3 @@
   
   
   
-  https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg
