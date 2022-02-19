@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/nihatfarz/nihatfarz/master/nihatfarz.svg" alt="Nihat Farz" />
+  <img src="https://raw.githubusercontent.com/nihatfarz/nihat-farz/master/farz.svg" alt="Nihat Farz" />
 </h1>
 
 
