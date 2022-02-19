@@ -4,8 +4,7 @@
 </h1>
 
 
-https://github-profile-trophy.vercel.app/?nihatfarz=ryo-ma&title=Followers
-
+[![trophy](https://github-profile-trophy.vercel.app/?nihatfarz=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
