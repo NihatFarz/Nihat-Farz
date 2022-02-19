@@ -3,8 +3,9 @@
   <img src="https://raw.githubusercontent.com/nihatfarz/nihatfarz/master/name.svg" alt="Nihat Farz" />
 </h1>
 
+🏆FARZ🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?nihatfarz=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nihatfarz)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
