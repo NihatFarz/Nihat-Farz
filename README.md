@@ -1,4 +1,10 @@
 
+![Nihat Farz](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
+
+
+
+
+
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/nihatfarz/nihatfarz/master/name.svg" alt="Nihat Farz" />
