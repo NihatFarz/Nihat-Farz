@@ -7,11 +7,6 @@
 
 
 
-<p align="center"> 
-  Profil İzlənməsi<br>
-  <img src="https://profile-counter.glitch.me/nihatfarz/count.svg" />
-</p>
-
 
 
 
@@ -28,7 +23,7 @@
   
   
   
-  
+  ![İzlənmə](https://visitor-badge.laobi.icu/badge?page_id=nihatfarz.nihatfarz)
   
   
   
