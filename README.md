@@ -1,4 +1,11 @@
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=008000&width=420&lines=Master+Developer;Nihat+Farz+🇦🇿">
+</p> 
+<br>
+
+
+
 
 <p align="center">
 ⠐ 🇦🇿 Əlaqə üçün🔳Contact Me🇱🇷 ⠐
@@ -10,7 +17,7 @@
   <br>
   <br>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nihatfarz) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/nihatfarz) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nihatfarz) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/nihatfarz) 
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nihatfarz) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/nihatfarz) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nihatfarz) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/nihatfarz) [![Gmail](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](nihatfarz@gmail.com)</b></h2>
 </details>
   
   
