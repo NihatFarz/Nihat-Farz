@@ -16,5 +16,3 @@
   Profil İzlənməsi<br>
   <img src="https://profile-counter.glitch.me/nihatfarz/count.svg" />
 </p>
-
-<img src="stats.gif" width="90%"><br/><br/>
