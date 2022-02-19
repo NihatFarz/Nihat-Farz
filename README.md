@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=008000&width=420&lines=Master+Developer;Nihat+Farz+🇦🇿">
+  <img src="https://readme-typing-svg.herokuapp.com?color=5EE045&width=420&lines=Master+Developer;Nihat+Farz+🇦🇿">
 </p> 
 <br>
 
