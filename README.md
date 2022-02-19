@@ -13,7 +13,7 @@
 <a href="https://telegram.me/nihatfarz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 
   
-  <h2 align="center"><b> ⠂🇦🇿 Sosial Media Hesablarım🔳My Social Media Accounts 🇱🇷⠐
+  <h2 align="center"><b> ⠂🇦🇿 Sosial Mediya Hesablarım🔳My Social Media Accounts 🇱🇷⠐
   <br>
   <br>
 
