@@ -21,12 +21,14 @@
 </details>
   
   
+ <br>
+  <br>
   
+ &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/nihatfarz)
+
   
-  
- 
-  
-  
+   <br>
+  <br>
   
   
   
@@ -77,6 +79,5 @@
   
   
   ![İzlənmə](https://visitor-badge.laobi.icu/badge?page_id=nihatfarz.nihatfarz)
-  
   
   
