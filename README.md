@@ -12,7 +12,6 @@
 <p align="center">
 <a href="https://telegram.me/nihatfarz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nihatfarz" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://az.linkedin.com/in/nihatfarz?trk=profile-badge">Nihat 「 FARZ 」</a></div>
               
 
   
