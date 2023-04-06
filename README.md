@@ -16,20 +16,6 @@
 <a href="https://www.buymeacoffee.com/nihatfarz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Mənə bir dənə Türk qəhvəsi al :D" height="45" width="163" ></a>
               
 
-  
-  <h2 align="center"><b> ⠂🇦🇿 Sosial Mediya Hesablarım🔳My Social Media Accounts 🇱🇷⠐
-  <br>
-  <br>
-    
-[![Linkedin](https://img.shields.io/badge/Linkedin-0088cc?style=for-the-badge&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/nihatfarz/) 
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nihatfarz) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/nihatfarz) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nihatfarz) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/nihatfarz) 
-<a href="mailto:nihatfarzcontact@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</details>
-  
-
-  
-  
    <br>
   <br>
   
