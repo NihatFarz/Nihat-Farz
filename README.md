@@ -19,10 +19,10 @@
    <br>
   <br>
   
-  
-  <h3>🎶 「 FARZ 」</h3>
+<p align="center">
+<h3>🎶 「 FARZ 」</h3>
 <a href="https://open.spotify.com/user/d0nmji76vbkcdxnrjgfyv1tik">
-  <img src="https://itstommi.vercel.app/api?theme=dark&spin=true&rainbow=true" alt="Current Spotify Song">
+<img src="https://itstommi.vercel.app/api?theme=dark&spin=true&rainbow=true" alt="Current Spotify Song">
 </a>
   
   
